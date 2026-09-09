@@ -237,8 +237,7 @@ MINI AI Assistant/
 │   └── app.py                  # Streamlit interactive UI application
 │
 ├── scripts/
-│   ├── build_index.py          # Script to generate FAISS vector embeddings
-│   └── download_data.py        # Automated UCI dataset downloader
+│   └──  build_index.py          # Script to generate FAISS vector embeddings
 │
 ├── tests/
 │   ├── test_analytics.py       # Unit tests for analytical calculations
